@@ -5,6 +5,7 @@ div {
     font-size: 32px;
     font-family: Arial;
     overflow: auto;
+    margin-top: 20px;
 
 }
 
@@ -16,4 +17,6 @@ div {
     font-family: Arial;
     overflow: auto;
     background-color: blueviolet;
+    padding: 10px 10px 10px 10px;
+
 }
